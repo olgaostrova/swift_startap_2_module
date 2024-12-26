@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Inter_18pt-SemiBold.ttf</string>
+		<string>Inter_18pt-Medium.ttf</string>
+		<string>OffBit-Bold.ttf</string>
+		<string>OffBit-101Bold.ttf</string>
+		<string>NeutralFace.otf</string>
+		<string>NeutralFace.ttf</string>
+		<string>NeutralFace-Bold.otf</string>
+		<string>Inter_18pt-Regular.ttf</string>
+		<string>stolzl_bold.otf</string>
+		<string>stolzl_book.otf</string>
+		<string>stolzl_light.otf</string>
+		<string>stolzl_medium.otf</string>
+		<string>stolzl_thin.otf</string>
+		<string>stolzl_regular.otf</string>
+	</array>
+</dict>
+</plist>
